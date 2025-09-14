@@ -1,5 +1,3 @@
-# Simple Makefile for Chapter 3 examples
-
 NVCC ?= nvcc
 NVCCFLAGS ?= -O2 -std=c++17
 INCLUDES := -Icommon
